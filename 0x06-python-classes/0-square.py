@@ -3,7 +3,7 @@
 
 
 class Square:
-     """An empty Square class
-     with no attribute or methods.
-     """
-     pass
+    """An empty Square class
+    with no attribute or methods.
+    """
+    pass
